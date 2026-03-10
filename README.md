@@ -136,7 +136,8 @@ People/companies offering OpenClaw setup and managed services.
 | **Nodelife LLC** | Mark Covert | $777–$1,277 | Instagram |
 | **Brandon Baney** | Brandon Baney | $499/$999/$1,499 | Facebook group |
 | **Parrish Kondra** | Parrish Kondra | Unknown | Real estate vertical |
-| **Nick Tocher** | Nick Tocher | Free | Community |
+| **Nick Tocher** |
+| **Agera AI** | Alex Followell | Consulting + templates | [ageraai.ai](https://ageraai.ai) | Nick Tocher | Free | Community |
 | **CrewClaw** | Unknown | $29 one-time | Docker deploy packages |
 
 ## Agent Platforms
@@ -183,4 +184,5 @@ Know a project that should be listed? Open a PR or [DM @Spaztazim](https://x.com
 ## License
 
 CC0 1.0 Universal
+
 
