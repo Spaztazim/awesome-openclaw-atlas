@@ -185,6 +185,14 @@ Libraries and SDKs for building on top of or alongside OpenClaw.
 
 ---
 
+
+## 💰 Monetization & Payments
+
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [Polar](https://polar.sh/) | — | Merchant of record for developers. Subscriptions, digital products, SaaS billing. Handles tax/VAT/compliance. Alternative to Stripe direct for selling skills, templates, managed services. |
+| [ClawRouter](https://github.com/BlockRunAI/ClawRouter) | 5.3K | LLM router with USDC payments on Base/Solana via x402. Pay-per-use compute without API keys. |
+
 ## Contributing
 
 Know a project that should be listed? Open a PR or [DM @Spaztazim](https://x.com/Spaztazim).
@@ -192,6 +200,7 @@ Know a project that should be listed? Open a PR or [DM @Spaztazim](https://x.com
 ## License
 
 CC0 1.0 Universal
+
 
 
 
