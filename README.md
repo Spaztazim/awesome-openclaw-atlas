@@ -186,6 +186,13 @@ Libraries and SDKs for building on top of or alongside OpenClaw.
 ---
 
 
+
+## 📚 Education & Community
+
+| Project | Description |
+|---------|-------------|
+| [The Operator Vault](https://theoperatorvault.io/) | OpenClaw guides, workflows, automation playbooks. Free course, Skool community (300+ members), premium skills, done-for-you automations. Run by Kevin. |
+
 ## 💰 Monetization & Payments
 
 | Project | Stars | Description |
@@ -200,6 +207,7 @@ Know a project that should be listed? Open a PR or [DM @Spaztazim](https://x.com
 ## License
 
 CC0 1.0 Universal
+
 
 
 
