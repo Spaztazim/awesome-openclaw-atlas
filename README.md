@@ -22,6 +22,7 @@
 - [Agent Platforms](#agent-platforms)
 - [Awesome Lists & Tutorials](#awesome-lists--tutorials)
 - [Platform Integrations](#platform-integrations)
+- [Developer Libraries](#developer-libraries)
 - [Security](#security)
 
 ---
@@ -170,6 +171,12 @@ Channel plugins and connectors for messaging platforms.
 - [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) — DingTalk bot channel plugin. ⭐ 1.3K
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) — WeChat AI bot with skills support. ⭐ 42.1K
 
+
+## Developer Libraries
+
+Libraries and SDKs for building on top of or alongside OpenClaw.
+
+- [andrewyng/aisuite](https://github.com/andrewyng/aisuite) — Unified Python API for multiple LLM providers. OpenAI-style interface, tool calls, MCP, agentic loops. Andrew Ng. $([char]0x2B50) 13.5K
 ## Security
 
 - [openclaw/trust](https://github.com/openclaw/trust) — MITRE ATLAS threat model. ⭐ 25
@@ -185,6 +192,7 @@ Know a project that should be listed? Open a PR or [DM @Spaztazim](https://x.com
 ## License
 
 CC0 1.0 Universal
+
 
 
 
