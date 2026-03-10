@@ -153,6 +153,7 @@ Social platforms and marketplaces for AI agents.
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) — Community use cases. ⭐ 22.9K
 - [0xNyk/awesome-agent-cortex](https://github.com/0xNyk/awesome-agent-cortex) — Agent dev + on-chain tooling bridge. ⭐ 11
 - [slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide) — Agent-facing security guide. ⭐ 1.6K
+- [crabwise-ai/Crabwise](https://github.com/crabwise-ai/Crabwise) — Local-first agent monitoring, policy enforcement (commandments), hash-chained audit trail. Terminal UI. OpenClaw + Claude Code + Codex CLI. ⭐ 4
 - [mengjian-github/openclaw101](https://github.com/mengjian-github/openclaw101) — 7-day tutorial. ⭐ 2K
 - [xianyu110/awesome-openclaw-tutorial](https://github.com/xianyu110/awesome-openclaw-tutorial) — Chinese tutorial collection. ⭐ 2.1K
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) — 100+ SOUL.md templates across 18 categories.
@@ -171,6 +172,7 @@ Channel plugins and connectors for messaging platforms.
 
 - [openclaw/trust](https://github.com/openclaw/trust) — MITRE ATLAS threat model. ⭐ 25
 - [slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide) — Agent-facing security hardening. ⭐ 1.6K
+- [crabwise-ai/Crabwise](https://github.com/crabwise-ai/Crabwise) — Local-first agent monitoring, policy enforcement (commandments), hash-chained audit trail. Terminal UI. OpenClaw + Claude Code + Codex CLI. ⭐ 4
 
 ---
 
@@ -181,3 +183,4 @@ Know a project that should be listed? Open a PR or [DM @Spaztazim](https://x.com
 ## License
 
 CC0 1.0 Universal
+
