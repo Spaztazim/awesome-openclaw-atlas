@@ -115,6 +115,7 @@ Skill collections, builders, and the skill ecosystem.
 - [refly-ai/refly](https://github.com/refly-ai/refly) — Open-source skill builder. Vibe workflow, multi-platform. ⭐ 7K
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) — 180+ production-ready skills. Engineering, marketing, compliance. ⭐ 3.9K
 - [LeoYeAI/openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills) — 127+ curated skills, weekly updated. ⭐ 1.4K
+- [andrewyng/context-hub](https://github.com/andrewyng/context-hub) — Curated, versioned API docs for coding agents. Self-improving via annotations. Andrew Ng. @aisuite/chub CLI. ⭐ 3.1K
 
 ## Specialized Use Cases
 
@@ -184,5 +185,6 @@ Know a project that should be listed? Open a PR or [DM @Spaztazim](https://x.com
 ## License
 
 CC0 1.0 Universal
+
 
 
