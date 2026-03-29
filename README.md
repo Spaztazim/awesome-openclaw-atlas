@@ -1,10 +1,10 @@
-Ôªø# awesome-openclaw-ecosystem
+# awesome-openclaw-ecosystem
 
-> A comprehensive map of the OpenClaw ecosystem ‚Äî distros, tools, dashboards, memory systems, deployment platforms, skills, managed services, and more.
+> A comprehensive map of the OpenClaw ecosystem ó distros, tools, dashboards, memory systems, deployment platforms, skills, managed services, and more.
 
 *Maintained by [@Spaztazim](https://x.com/Spaztazim) + [Lux](https://x.com/LuxSwarm) at [Almost Spec Labs](https://github.com/almostspeclabs)*
 
-*Last updated: 2026-03-10*
+*Last updated: 2026-03-29*
 
 ---
 
@@ -29,104 +29,105 @@
 
 ## Core
 
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) ‚Äî The main project. Your own personal AI assistant. ‚≠ê 297K
-- [openclaw/skills](https://github.com/openclaw/skills) ‚Äî All ClawhHub skills archived. ‚≠ê 2.5K
-- [openclaw/clawhub](https://github.com/openclaw/clawhub) ‚Äî Official skill directory and marketplace. ‚≠ê 5.2K
-- [openclaw/trust](https://github.com/openclaw/trust) ‚Äî MITRE ATLAS threat model for OpenClaw security. ‚≠ê 25
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) ó The main project. Your own personal AI assistant. ? 297K
+- [openclaw/skills](https://github.com/openclaw/skills) ó All ClawhHub skills archived. ? 2.5K
+- [openclaw/clawhub](https://github.com/openclaw/clawhub) ó Official skill directory and marketplace. ? 5.2K
+- [openclaw/trust](https://github.com/openclaw/trust) ó MITRE ATLAS threat model for OpenClaw security. ? 25
 
 ## Alternative Implementations
 
 Full reimplementations or lightweight alternatives to OpenClaw core.
 
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) ‚Äî Ultra-lightweight OpenClaw. ‚≠ê 31.9K
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) ‚Äî Fast, small, fully autonomous. Deploy anywhere, swap anything. ‚≠ê 25.7K
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) ‚Äî Lightweight containerized alternative. WhatsApp, Telegram, Slack, Discord, Gmail. ‚≠ê 21.4K
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) ‚Äî Agentic IM chatbot infrastructure. ‚≠ê 20.5K
-- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) ‚Äî Production-grade agentic IM bots. ‚≠ê 15.5K
-- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) ‚Äî Open-source Agent Operating System. ‚≠ê 13.5K
-- [nearai/ironclaw](https://github.com/nearai/ironclaw) ‚Äî Rust implementation focused on privacy and security. NEAR ecosystem. ‚≠ê 9K
-- [memovai/mimiclaw](https://github.com/memovai/mimiclaw) ‚Äî Run on a $5 chip. No OS, no Node.js, no Pi. Hardware agent OS. ‚≠ê 4.2K
-- [moltis-org/moltis](https://github.com/moltis-org/moltis) ‚Äî Rust-native single binary. Sandboxed, secure, auditable. ‚≠ê 2.1K
-- [SumeLabs/clawra](https://github.com/SumeLabs/clawra) ‚Äî OpenClaw as your companion. ‚≠ê 2K
-- [poco-ai/poco-claw](https://github.com/poco-ai/poco-claw) ‚Äî Prettier UI alternative. Claude Code-based agent. ‚≠ê 1.1K
-- [ComposioHQ/secure-openclaw](https://github.com/ComposioHQ/secure-openclaw) ‚Äî Security-focused, 500+ app integrations. ‚≠ê 1.4K
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) ó Ultra-lightweight OpenClaw. ? 31.9K
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) ó Fast, small, fully autonomous. Deploy anywhere, swap anything. ? 25.7K
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) ó Lightweight containerized alternative. WhatsApp, Telegram, Slack, Discord, Gmail. ? 21.4K
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) ó Agentic IM chatbot infrastructure. ? 20.5K
+- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) ó Production-grade agentic IM bots. ? 15.5K
+- [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) ó Open-source Agent Operating System. ? 13.5K
+- [nearai/ironclaw](https://github.com/nearai/ironclaw) ó Rust implementation focused on privacy and security. NEAR ecosystem. ? 9K
+- [memovai/mimiclaw](https://github.com/memovai/mimiclaw) ó Run on a $5 chip. No OS, no Node.js, no Pi. Hardware agent OS. ? 4.2K
+- [moltis-org/moltis](https://github.com/moltis-org/moltis) ó Rust-native single binary. Sandboxed, secure, auditable. ? 2.1K
+- [SumeLabs/clawra](https://github.com/SumeLabs/clawra) ó OpenClaw as your companion. ? 2K
+- [poco-ai/poco-claw](https://github.com/poco-ai/poco-claw) ó Prettier UI alternative. Claude Code-based agent. ? 1.1K
+- [ComposioHQ/secure-openclaw](https://github.com/ComposioHQ/secure-openclaw) ó Security-focused, 500+ app integrations. ? 1.4K
 
 ## GUI & Dashboards
 
 Visual interfaces and management tools for OpenClaw.
 
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) ‚Äî Cross-platform desktop All-in-One for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI. ‚≠ê 26.3K
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) ‚Äî 24/7 Cowork app for multiple CLI agents. ‚≠ê 18.4K
-- [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) ‚Äî Desktop GUI app for OpenClaw. ‚≠ê 3.4K
-- [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) ‚Äî Web dashboard. Connect gateway, manage agents. ‚≠ê 1.5K
-- [ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) ‚Äî Pixel office visualization for agent work states. ‚≠ê 4K
-- **AlphaClaw** by [@chrysb](https://x.com/chrysb) ‚Äî Setup harness with drift doctor, watchdog, webhook inspector, token analytics. One-click Railway/Render deploy. [Launch tweet](https://x.com/chrysb/status/2030733531845104032)
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) ó Cross-platform desktop All-in-One for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI. ? 26.3K
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) ó 24/7 Cowork app for multiple CLI agents. ? 18.4K
+- [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) ó Desktop GUI app for OpenClaw. ? 3.4K
+- [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) ó Web dashboard. Connect gateway, manage agents. ? 1.5K
+- [ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) ó Pixel office visualization for agent work states. ? 4K
+- **AlphaClaw** by [@chrysb](https://x.com/chrysb) ó Setup harness with drift doctor, watchdog, webhook inspector, token analytics. One-click Railway/Render deploy. [Launch tweet](https://x.com/chrysb/status/2030733531845104032)
 
 ## Agent Orchestration
 
 Multi-agent coordination, fleet management, and task orchestration.
 
-- [cft0808/edict](https://github.com/cft0808/edict) ‚Äî 9 specialized agents + real-time dashboard, model config, audit trails. ‚≠ê 7.5K
-- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) ‚Äî Open-source agent orchestration dashboard. Fleet, costs, workflows. ‚≠ê 2.1K
-- [snarktank/antfarm](https://github.com/snarktank/antfarm) ‚Äî Build agent teams with one command. ‚≠ê 2.1K
-- [abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) ‚Äî Agent orchestration dashboard. ‚≠ê 1.9K
-- [alibaba/hiclaw](https://github.com/alibaba/hiclaw) ‚Äî IM-based multi-agent + human-in-the-loop. Alibaba. ‚≠ê 1.5K
-- [crshdn/mission-control](https://github.com/crshdn/mission-control) ‚Äî AI Agent orchestration dashboard. ‚≠ê 1.3K
-- [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) ‚Äî All-in-one AI companion. ‚≠ê 1.8K
+- [cft0808/edict](https://github.com/cft0808/edict) ó 9 specialized agents + real-time dashboard, model config, audit trails. ? 7.5K
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) ó Open-source agent orchestration dashboard. Fleet, costs, workflows. ? 2.1K
+- [snarktank/antfarm](https://github.com/snarktank/antfarm) ó Build agent teams with one command. ? 2.1K
+- [abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) ó Agent orchestration dashboard. ? 1.9K
+- [alibaba/hiclaw](https://github.com/alibaba/hiclaw) ó IM-based multi-agent + human-in-the-loop. Alibaba. ? 1.5K
+- [crshdn/mission-control](https://github.com/crshdn/mission-control) ó AI Agent orchestration dashboard. ? 1.3K
+- [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) ó All-in-one AI companion. ? 1.8K
 
 ## Memory & Context
 
 Persistent memory, context management, and token optimization for agents.
 
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) ‚Äî Memory for 24/7 proactive agents. ‚≠ê 12.8K
-- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) ‚Äî AI memory OS. Persistent skill memory for cross-task reuse. ‚≠ê 6.5K
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) ‚Äî Context database for agents. File system paradigm, self-evolving. ‚≠ê 5.6K
-- [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) ‚Äî Hybrid retrieval (Vector + BM25), cross-encoder rerank. ‚≠ê 2K
-- [aeromomo/claw-compactor](https://github.com/aeromomo/claw-compactor) ‚Äî Token compression up to 97%. 6-layer deterministic, no LLM needed. ‚≠ê 1.4K
+- [Spaztazim/lucid-context-engine](https://github.com/Spaztazim/lucid-context-engine) - Autonomous memory retrieval plugin for OpenClaw. Pre-search with salience scoring, QMD integration, cross-agent memory, context budget awareness.
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) ó Memory for 24/7 proactive agents. ? 12.8K
+- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) ó AI memory OS. Persistent skill memory for cross-task reuse. ? 6.5K
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) ó Context database for agents. File system paradigm, self-evolving. ? 5.6K
+- [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) ó Hybrid retrieval (Vector + BM25), cross-encoder rerank. ? 2K
+- [aeromomo/claw-compactor](https://github.com/aeromomo/claw-compactor) ó Token compression up to 97%. 6-layer deterministic, no LLM needed. ? 1.4K
 
 ## Compute & Routing
 
 LLM routing, cost optimization, and distributed compute.
 
-- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) ‚Äî Agent-native LLM router. 41+ models, <1ms routing, USDC payments on Base & Solana. ‚≠ê 5.3K
-- [mnfst/manifest](https://github.com/mnfst/manifest) ‚Äî Smart LLM routing. Cut costs up to 70%. ‚≠ê 3.7K
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) ‚Äî System-level intelligent router for mixture-of-models. ‚≠ê 3.3K
-- [linuxhsj/openclaw-zero-token](https://github.com/linuxhsj/openclaw-zero-token) ‚Äî Use all major AI models without API tokens. ‚≠ê 1.4K
-- [RightNow-AI/picolm](https://github.com/RightNow-AI/picolm) ‚Äî Run 1B parameter LLM on $10 board with 256MB RAM. ‚≠ê 1.3K
-- [RiftIcon](https://rifticon.com) ‚Äî VRAM pooling across PC/laptop/phone over WiFi. $99.
+- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) ó Agent-native LLM router. 41+ models, <1ms routing, USDC payments on Base & Solana. ? 5.3K
+- [mnfst/manifest](https://github.com/mnfst/manifest) ó Smart LLM routing. Cut costs up to 70%. ? 3.7K
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) ó System-level intelligent router for mixture-of-models. ? 3.3K
+- [linuxhsj/openclaw-zero-token](https://github.com/linuxhsj/openclaw-zero-token) ó Use all major AI models without API tokens. ? 1.4K
+- [RightNow-AI/picolm](https://github.com/RightNow-AI/picolm) ó Run 1B parameter LLM on $10 board with 256MB RAM. ? 1.3K
+- [RiftIcon](https://rifticon.com) ó VRAM pooling across PC/laptop/phone over WiFi. $99.
 
 ## Deployment & Infra
 
 One-click deploys, hosting platforms, and infrastructure tools.
 
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) ‚Äî Home server OS. One-click OpenClaw deploy. ‚≠ê 34.2K
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) ‚Äî Home server OS with 300+ app store including OpenClaw. ‚≠ê 10.7K
-- [cloudflare/moltworker](https://github.com/cloudflare/moltworker) ‚Äî OpenClaw on Cloudflare Workers. ‚≠ê 9.6K
-- [openclaw/clawgo](https://github.com/openclaw/clawgo) ‚Äî Lightweight Go node for Raspberry Pi/Linux. Headless, mDNS, FIFO voice. ‚≠ê 51
-- **nix-openclaw** ‚Äî Declarative deployment via Nix flakes. ‚≠ê 512
-- **clawdinators** ‚Äî NixOS on AWS. Ephemeral agents, shared EFS hive-mind memory. ‚≠ê 132
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) ó Home server OS. One-click OpenClaw deploy. ? 34.2K
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) ó Home server OS with 300+ app store including OpenClaw. ? 10.7K
+- [cloudflare/moltworker](https://github.com/cloudflare/moltworker) ó OpenClaw on Cloudflare Workers. ? 9.6K
+- [openclaw/clawgo](https://github.com/openclaw/clawgo) ó Lightweight Go node for Raspberry Pi/Linux. Headless, mDNS, FIFO voice. ? 51
+- **nix-openclaw** ó Declarative deployment via Nix flakes. ? 512
+- **clawdinators** ó NixOS on AWS. Ephemeral agents, shared EFS hive-mind memory. ? 132
 
 ## Skills & Skill Tools
 
 Skill collections, builders, and the skill ecosystem.
 
-- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ‚Äî 5,400+ skills filtered and categorized. ‚≠ê 34.4K
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) ‚Äî Manus-style persistent markdown planning. ‚≠ê 15.7K
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) ‚Äî Obsidian agent skills. Markdown, Bases, JSON Canvas, CLI. ‚≠ê 13.1K
-- [refly-ai/refly](https://github.com/refly-ai/refly) ‚Äî Open-source skill builder. Vibe workflow, multi-platform. ‚≠ê 7K
-- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) ‚Äî 180+ production-ready skills. Engineering, marketing, compliance. ‚≠ê 3.9K
-- [LeoYeAI/openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills) ‚Äî 127+ curated skills, weekly updated. ‚≠ê 1.4K
-- [andrewyng/context-hub](https://github.com/andrewyng/context-hub) ‚Äî Curated, versioned API docs for coding agents. Self-improving via annotations. Andrew Ng. @aisuite/chub CLI. ‚≠ê 3.1K
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ó 5,400+ skills filtered and categorized. ? 34.4K
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) ó Manus-style persistent markdown planning. ? 15.7K
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) ó Obsidian agent skills. Markdown, Bases, JSON Canvas, CLI. ? 13.1K
+- [refly-ai/refly](https://github.com/refly-ai/refly) ó Open-source skill builder. Vibe workflow, multi-platform. ? 7K
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) ó 180+ production-ready skills. Engineering, marketing, compliance. ? 3.9K
+- [LeoYeAI/openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills) ó 127+ curated skills, weekly updated. ? 1.4K
+- [andrewyng/context-hub](https://github.com/andrewyng/context-hub) ó Curated, versioned API docs for coding agents. Self-improving via annotations. Andrew Ng. @aisuite/chub CLI. ? 3.1K
 
 ## Specialized Use Cases
 
 Unique applications built on or for OpenClaw.
 
-- [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) ‚Äî OpenClaw as AI Coworker. "$15K earned in 11 hours." ‚≠ê 7K
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) ‚Äî Auto-generate CLI wrappers for GUI software. ‚≠ê 2.2K
-- [Intent-Lab/VisionClaw](https://github.com/Intent-Lab/VisionClaw) ‚Äî Meta Ray-Ban smart glasses + Gemini Live + agentic actions. ‚≠ê 1.6K
-- [Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL) ‚Äî Train agents by talking. RL-based. ‚≠ê 1.2K
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) ‚Äî Self-hosted AI companion. Voice chat, Minecraft, Factorio. ‚≠ê 32.1K
+- [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) ó OpenClaw as AI Coworker. "$15K earned in 11 hours." ? 7K
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) ó Auto-generate CLI wrappers for GUI software. ? 2.2K
+- [Intent-Lab/VisionClaw](https://github.com/Intent-Lab/VisionClaw) ó Meta Ray-Ban smart glasses + Gemini Live + agentic actions. ? 1.6K
+- [Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL) ó Train agents by talking. RL-based. ? 1.2K
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) ó Self-hosted AI companion. Voice chat, Minecraft, Factorio. ? 32.1K
 
 ## Managed Services (OaaS)
 
@@ -135,7 +136,7 @@ People/companies offering OpenClaw setup and managed services.
 | Name | Builder | Pricing | Link |
 |------|---------|---------|------|
 | **OpenAssist.io** | Ian Fernando (@ianternet) | SaaS subscription | [openassist.io](https://openassist.io) |
-| **Nodelife LLC** | Mark Covert | $777‚Äì$1,277 | Instagram |
+| **Nodelife LLC** | Mark Covert | $777ñ$1,277 | Instagram |
 | **Brandon Baney** | Brandon Baney | $499/$999/$1,499 | Facebook group |
 | **Parrish Kondra** | Parrish Kondra | Unknown | Real estate vertical |
 | **Nick Tocher** |
@@ -146,58 +147,58 @@ People/companies offering OpenClaw setup and managed services.
 
 Social platforms and marketplaces for AI agents.
 
-- **Promethios.ai** ‚Äî Discord + App Store + competitive gaming for agents. Invite-only. [promethios.ai](https://promethios.ai)
-- **Moltbook** ‚Äî Agent social network. Acquired by Meta (March 2026). [moltbook.com](https://moltbook.com)
-- **ClawhHub** ‚Äî Official skill marketplace + onlycrabs.ai SOUL registry. [clawhub.com](https://clawhub.com)
-- **Larry Brain** ‚Äî Skills marketplace (Oliver Henry / Larry Loop). [larrybrain.com](https://larrybrain.com)
+- **Promethios.ai** ó Discord + App Store + competitive gaming for agents. Invite-only. [promethios.ai](https://promethios.ai)
+- **Moltbook** ó Agent social network. Acquired by Meta (March 2026). [moltbook.com](https://moltbook.com)
+- **ClawhHub** ó Official skill marketplace + onlycrabs.ai SOUL registry. [clawhub.com](https://clawhub.com)
+- **Larry Brain** ó Skills marketplace (Oliver Henry / Larry Loop). [larrybrain.com](https://larrybrain.com)
 
 ## Awesome Lists & Tutorials
 
-- [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) ‚Äî Community use cases. ‚≠ê 22.9K
-- [0xNyk/awesome-agent-cortex](https://github.com/0xNyk/awesome-agent-cortex) ‚Äî Agent dev + on-chain tooling bridge. ‚≠ê 11
-- [slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide) ‚Äî Agent-facing security guide. ‚≠ê 1.6K
-- [crabwise-ai/Crabwise](https://github.com/crabwise-ai/Crabwise) ‚Äî Local-first agent monitoring, policy enforcement (commandments), hash-chained audit trail. Terminal UI. OpenClaw + Claude Code + Codex CLI. ‚≠ê 4
-- [mengjian-github/openclaw101](https://github.com/mengjian-github/openclaw101) ‚Äî 7-day tutorial. ‚≠ê 2K
-- [xianyu110/awesome-openclaw-tutorial](https://github.com/xianyu110/awesome-openclaw-tutorial) ‚Äî Chinese tutorial collection. ‚≠ê 2.1K
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) ‚Äî 100+ SOUL.md templates across 18 categories.
+- [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) ó Community use cases. ? 22.9K
+- [0xNyk/awesome-agent-cortex](https://github.com/0xNyk/awesome-agent-cortex) ó Agent dev + on-chain tooling bridge. ? 11
+- [slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide) ó Agent-facing security guide. ? 1.6K
+- [crabwise-ai/Crabwise](https://github.com/crabwise-ai/Crabwise) ó Local-first agent monitoring, policy enforcement (commandments), hash-chained audit trail. Terminal UI. OpenClaw + Claude Code + Codex CLI. ? 4
+- [mengjian-github/openclaw101](https://github.com/mengjian-github/openclaw101) ó 7-day tutorial. ? 2K
+- [xianyu110/awesome-openclaw-tutorial](https://github.com/xianyu110/awesome-openclaw-tutorial) ó Chinese tutorial collection. ? 2.1K
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) ó 100+ SOUL.md templates across 18 categories.
 
 ## Platform Integrations
 
 Channel plugins and connectors for messaging platforms.
 
-- [DingTalk-Real-AI/dingtalk-openclaw-connector](https://github.com/DingTalk-Real-AI/dingtalk-openclaw-connector) ‚Äî DingTalk + AI Card integration. ‚≠ê 1.6K
-- [m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) ‚Äî Feishu/Lark integration. ‚≠ê 4.2K
-- [freestylefly/openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) ‚Äî WeChat integration. ‚≠ê 1.3K
-- [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) ‚Äî DingTalk bot channel plugin. ‚≠ê 1.3K
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ‚Äî WeChat AI bot with skills support. ‚≠ê 42.1K
+- [DingTalk-Real-AI/dingtalk-openclaw-connector](https://github.com/DingTalk-Real-AI/dingtalk-openclaw-connector) ó DingTalk + AI Card integration. ? 1.6K
+- [m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) ó Feishu/Lark integration. ? 4.2K
+- [freestylefly/openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) ó WeChat integration. ? 1.3K
+- [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) ó DingTalk bot channel plugin. ? 1.3K
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ó WeChat AI bot with skills support. ? 42.1K
 
 
 ## Developer Libraries
 
 Libraries and SDKs for building on top of or alongside OpenClaw.
 
-- [andrewyng/aisuite](https://github.com/andrewyng/aisuite) ‚Äî Unified Python API for multiple LLM providers. OpenAI-style interface, tool calls, MCP, agentic loops. Andrew Ng. $([char]0x2B50) 13.5K
+- [andrewyng/aisuite](https://github.com/andrewyng/aisuite) ó Unified Python API for multiple LLM providers. OpenAI-style interface, tool calls, MCP, agentic loops. Andrew Ng. $([char]0x2B50) 13.5K
 ## Security
 
-- [openclaw/trust](https://github.com/openclaw/trust) ‚Äî MITRE ATLAS threat model. ‚≠ê 25
-- [slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide) ‚Äî Agent-facing security hardening. ‚≠ê 1.6K
-- [crabwise-ai/Crabwise](https://github.com/crabwise-ai/Crabwise) ‚Äî Local-first agent monitoring, policy enforcement (commandments), hash-chained audit trail. Terminal UI. OpenClaw + Claude Code + Codex CLI. ‚≠ê 4
+- [openclaw/trust](https://github.com/openclaw/trust) ó MITRE ATLAS threat model. ? 25
+- [slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide) ó Agent-facing security hardening. ? 1.6K
+- [crabwise-ai/Crabwise](https://github.com/crabwise-ai/Crabwise) ó Local-first agent monitoring, policy enforcement (commandments), hash-chained audit trail. Terminal UI. OpenClaw + Claude Code + Codex CLI. ? 4
 
 ---
 
 
 
-## üìö Education & Community
+## ?? Education & Community
 
 | Project | Description |
 |---------|-------------|
 | [The Operator Vault](https://theoperatorvault.io/) | OpenClaw guides, workflows, automation playbooks. Free course, Skool community (300+ members), premium skills, done-for-you automations. Run by Kevin. |
 
-## üí∞ Monetization & Payments
+## ?? Monetization & Payments
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [Polar](https://polar.sh/) | ‚Äî | Merchant of record for developers. Subscriptions, digital products, SaaS billing. Handles tax/VAT/compliance. Alternative to Stripe direct for selling skills, templates, managed services. |
+| [Polar](https://polar.sh/) | ó | Merchant of record for developers. Subscriptions, digital products, SaaS billing. Handles tax/VAT/compliance. Alternative to Stripe direct for selling skills, templates, managed services. |
 | [ClawRouter](https://github.com/BlockRunAI/ClawRouter) | 5.3K | LLM router with USDC payments on Base/Solana via x402. Pay-per-use compute without API keys. |
 
 ## Contributing
